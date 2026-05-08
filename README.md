@@ -13,7 +13,16 @@ Each directory is prefixed with a sequential number (e.g., `01`, `02`, `03`) to 
 - **Numbers:** Indicate the progression of tasks and concepts.
 - **Content:** Includes source code, logic implementations, and problem-solving exercises.
 
-## 🛠️ Tech Stack
+## � Projects and Exercises
+
+Below is a list of completed projects and exercises included in this repository.
+
+*Please update this list with your actual projects. Example:*
+- **`01_project_name`**: Brief description of the project.
+- **`02_project_name`**: Brief description of the project.
+- **`03_project_name`**: Brief description of the project.
+
+## �🛠️ Tech Stack
 
 - **Language:** C++ (Standard Library)
 - **Environment:** Developed and tested primarily on Linux (Ubuntu).
